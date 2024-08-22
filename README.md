@@ -1,20 +1,21 @@
-Web application in Java using Spring Boot
+Online store
+This project is a web application for an online store created using Java. It allows you to perform CRUD operations (create, read, update, and delete) using Spring Boot, Spring MVC, MySQL, and Thymeleaf.
 
-Description.
+Features
+CRUD operations: Performs create, read, update, and delete operations on data from a database using the Spring Framework.
+Validation of form data: Validate form data using Spring Boot and Spring MVC.
+Storing product photos: Product photos are stored in the application itself, and links to them are stored in the database.
+Technologies
+Java
+Spring Boot
+Spring MVC
+MySQL
+Thymeleaf
 
-In this project, I created a web application that performs CRUD (create, read, update, and delete) operations using Spring Boot, Spring MVC, MySQL, and Thymeleaf. This project is designed to manage employee data.
-
-Technologies used
-Java: The main programming language for developing the application.
-Spring Boot: For quickly creating and customizing web applications.
-Spring MVC: For implementing the Model-View-Controller pattern.
-MySQL: For storing data in a relational database.
-Thymeleaf: For creating dynamic web pages.
-Functionality
-Create: Adding new employee records to the database.
-Reading: Viewing the list of employees and the details of each one.
-Update: Edit existing employee records.
-Delete: Delete employee records from the database.
-
-Authors
+Usage.
+Creating a product: Go to the product creation page and fill out the form.
+View products: Go to the product view page to view all available products.
+Update a product: Select a product to update and make any necessary changes.
+Delete a product: Select the product to delete.
+Author 
 Trofimov Dmytro
